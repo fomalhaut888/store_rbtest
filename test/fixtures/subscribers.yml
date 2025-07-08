@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+simonc:
+  product: tshirt
+  email: SimonC@leosys.com
+
+cwchen:
+  product: tshirt
+  email: cwchen.bigfish@gmail.com
